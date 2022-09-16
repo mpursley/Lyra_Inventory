@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TopDownArenaRuntime.cpp.obj": [
+			"LyraCameraMode_TopDownArenaCamera.cpp.obj",
+			"TopDownArenaAttributeSet.cpp.obj",
+			"TopDownArenaMovementComponent.cpp.obj",
+			"TopDownArenaPickupUIData.cpp.obj",
+			"TopDownArenaRuntimeModule.cpp.obj"
+		],
+		"Module.TopDownArenaRuntime.gen.cpp.obj": [
+			"LyraCameraMode_TopDownArenaCamera.gen.cpp.obj",
+			"TopDownArenaAttributeSet.gen.cpp.obj",
+			"TopDownArenaMovementComponent.gen.cpp.obj",
+			"TopDownArenaPickupUIData.gen.cpp.obj",
+			"TopDownArenaRuntime.init.gen.cpp.obj"
+		]
+	}
+}
