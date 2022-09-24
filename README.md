@@ -21,6 +21,9 @@ https://drive.google.com/drive/folders/1cEt7FBq1pOKw4FM0TqO8wJP1-KdEzKKr?usp=sha
 
 
 ## Screenshots
+### Multiplayer:
+<img width="1552" alt="Screen Shot 2022-09-24 at 1 48 47 PM" src="https://user-images.githubusercontent.com/3343322/192118371-005d2830-8474-4330-af92-0afff0618b5a.png">
+<img width="1552" alt="Screen Shot 2022-09-24 at 1 48 19 PM" src="https://user-images.githubusercontent.com/3343322/192118374-ba5d67db-c018-4c90-bdaf-1b559dda4311.png">
 ### Mac:
 ![image](https://user-images.githubusercontent.com/3343322/192088962-ace05579-ba8a-45ad-b556-e28ff4409c19.png)
 ![image](https://user-images.githubusercontent.com/3343322/192116216-786d1ec7-0cf2-4660-aada-bcee2cbde57d.png)
