@@ -1,6 +1,6 @@
 # Lyra_Inventory
 
-Unreal Engine 5 Lyra project using the builtin prototype inventory system
+Unreal Engine 5 Lyra project using the built-in prototype inventory system
 
 ## Builds/Executables
 For Windows and Mac Builds see here...
